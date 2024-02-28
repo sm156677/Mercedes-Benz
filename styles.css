@@ -1,6 +1,13 @@
 body{
-    background-color: rgb(184, 240, 221);
+    background-color: rgba(206, 224, 218, 0.726);
 }
 h1{
    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(133, 209, 245);
+            padding: 10px;
+            border: 2px solid black;
+            display: inline-block;
 }
